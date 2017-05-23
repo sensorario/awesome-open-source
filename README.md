@@ -13,3 +13,7 @@
  - [github guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
  - [atom guidelines](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
  - [rails guidelines](https://github.com/rails/rails/blob/master/CONTRIBUTING.md)
+
+## Backward Compatibility
+
+ - [backward compatibility](http://symfony.com/doc/master/contributing/code/bc.html)
